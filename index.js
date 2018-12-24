@@ -13,4 +13,3 @@ function logShout(string) {
 function logWhispter(string) {
   console.log(string.toLowerCase());
 }
-
